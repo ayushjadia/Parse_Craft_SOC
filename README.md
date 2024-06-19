@@ -12,19 +12,30 @@ We will start from the basics of Natural Language Processing (NLP) and then move
 **Schedule:**
 
 **Week 1:** Introduction to NLP
-
 Understanding the basics and necessity of NLP <br>
 NLP pipeline,text preperation and feature engineering <br>
 text preprocessing and tokenization( this is the most important part in whole NLP so do it sincierly) <br>
 fundamental text representation techniques: Bag of Words, Tf-Idf, and N-grams
 
 
-**Assignment:** 1 assignment every week (10% each) and a final project of (40%).
+**Week 2:** 
+word embedding (word2vec)
+w2v Demo, w2v intuition,Types of w2v architectures
+CBoW, Skip-gram
+Training own model - GoT data
 
-**Certificate Criteria:** Submit at least 4 assignments and final project.
+
+**Week 3:** 
+No resources (extra time given to complete assignment and backlogs)
+
+
+**Week 4:**
+Introduction to generative AI.
+Basics of transformers.
+Retrieval-Augmented Generation (RAG) and finetuning.
+
 
 **Course Moderators:**
-
 * Rishu Kuamr
 * Vidyanand kumar
 * Ayush Jadia
